@@ -35,7 +35,7 @@ The repository has a number of files that include notebooks, slides and setup fi
 
  * sequential_testing.ipynb- Sequential AB testing approach. 
 
- * eda.ipynb**- Notebook containing the explatory data analysis for the project
+ * eda.ipynb ** - Notebook containing the explatory data analysis for the project
   
  
 `scripts folder`: Has 4 python scripts:
